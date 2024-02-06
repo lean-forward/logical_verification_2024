@@ -1,6 +1,6 @@
-# interactive_theorem_proving_2024
+# logical_verification_2024
 
-Hitchhiker's Guide to Logical Verification (2024 LMU Edition)
+Hitchhiker's Guide to Logical Verification (2024 Edition)
 
 ## Installation
 
